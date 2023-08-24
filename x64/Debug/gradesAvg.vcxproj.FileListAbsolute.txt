@@ -1,0 +1,2 @@
+E:\Munkák\Programming\C\2023\gradesAvg\x64\Debug\gradesAvg.exe
+E:\Munkák\Programming\C\09_GradesAvg\x64\Debug\gradesAvg.exe
